@@ -1,0 +1,16 @@
+{
+  "name": "Tic Tac Toe",
+  "authors": [
+    "jbandura <jacek.bandura@netguru.pl>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
