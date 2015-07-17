@@ -1,5 +1,5 @@
 {
-  "name": "Tic Tac Toe",
+  "name": "Tic-Tac-Toe",
   "main": "index.js",
   "scripts": {
     "start": "npm run serve | npm run dev",

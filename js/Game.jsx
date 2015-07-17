@@ -2,7 +2,6 @@
 'use strict'
 
 var React = require('react');
-var Tile = require('./Tile');
 var MovesWatcher = require('./MovesWatcher');
 
 var movesWatcher = new MovesWatcher();
